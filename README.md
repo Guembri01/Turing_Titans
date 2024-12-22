@@ -107,7 +107,7 @@ Explore results and visualizations interactively:
    ![Visualisation 10](10.png)
    ![Visualisation 11](11.png)
 Watch the demo video:
-- [Demo Video](video_2.mkv)
+- [Demo Video](video_2.mp4)
 ## Notes
 - Assurez-vous d’avoir suffisamment de crédits OpenAI.
 - Sauvegardez vos données avant utilisation.
