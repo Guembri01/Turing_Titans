@@ -111,7 +111,8 @@ Watch the demo video:
 ## 🚀 Demo Video
 
 Watch the demo video below:
-[Watch the demo video](https://youtu.be/q2VpUYB7tjw)
+[![Watch the demo video](https://img.youtube.com/vi/q2VpUYB7tjw/0.jpg)](https://youtu.be/q2VpUYB7tjw)
+
 ## Notes
 - Assurez-vous d’avoir suffisamment de crédits OpenAI.
 - Sauvegardez vos données avant utilisation.
