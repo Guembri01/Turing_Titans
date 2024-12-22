@@ -111,8 +111,7 @@ Watch the demo video:
 ## 🚀 Demo Video
 
 Watch the demo video below:
-[![Watch the demo video](https://img.youtube.com/vi/q2VpUYB7tjw/0.jpg)](https://youtu.be/q2VpUYB7tjw)
-
+<iframe width="1519" height="566" src="https://www.youtube.com/embed/q2VpUYB7tjw" title="Turing" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 ## Notes
 - Assurez-vous d’avoir suffisamment de crédits OpenAI.
 - Sauvegardez vos données avant utilisation.
