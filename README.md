@@ -106,6 +106,8 @@ Explore results and visualizations interactively:
    ![Visualisation 9](9.png)
    ![Visualisation 10](10.png)
    ![Visualisation 11](11.png)
+Watch the demo video: [Visualize RAG Data Demo](https://drive.google.com/file/d/1vhTMFZbh87srQFL4TgPKqgflYF3O-Meu/view?usp=sharing)
+
 ## Notes
 - Assurez-vous d’avoir suffisamment de crédits OpenAI.
 - Sauvegardez vos données avant utilisation.
