@@ -108,10 +108,11 @@ Explore results and visualizations interactively:
    ![Visualisation 11](11.png)
 
 Watch the demo video:
-<video controls>
-  <source src="video_2.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+## 🚀 Demo Video
+
+Watch the demo video below:
+<iframe width="560" height="315" src="video_2.mp4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 ## Notes
 - Assurez-vous d’avoir suffisamment de crédits OpenAI.
