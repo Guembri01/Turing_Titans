@@ -103,6 +103,9 @@ Explore results and visualizations interactively:
    ![Visualisation 6](6.png)
    ![Visualisation 7](7.png)
    ![Visualisation 8](8.png)
+   ![Visualisation 9](9.png)
+   ![Visualisation 10](10.png)
+   ![Visualisation 11](11.png)
 ## Notes
 - Assurez-vous d’avoir suffisamment de crédits OpenAI.
 - Sauvegardez vos données avant utilisation.
