@@ -106,8 +106,13 @@ Explore results and visualizations interactively:
    ![Visualisation 9](9.png)
    ![Visualisation 10](10.png)
    ![Visualisation 11](11.png)
+
 Watch the demo video:
-- [Demo Video](video_2.mp4)
+<video controls>
+  <source src="video_2.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 ## Notes
 - Assurez-vous d’avoir suffisamment de crédits OpenAI.
 - Sauvegardez vos données avant utilisation.
